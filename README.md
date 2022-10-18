@@ -2,7 +2,7 @@
 <h3 align="center">A software developer living in Kansas City, MO</h3>
 
 I'm really interested in applications that inspire people to take action. I know how to work with JavaScript, React, TypeScript, HTML/CSS and GraphQL. 
-I will soon learn how to incorporate PWA's into my applications. I'm currently working with a front-end  & back-end team to create an app for educators more easily find information about school districts they are interested in applying to work. I'm also creating various iterations of CRUD applications.
+I will soon learn how to incorporate PWA's into my applications. I'm currently working with a front-end  & back-end team to create an app for educators to more easily find information about school districts they are interested in applying to for work. I'm also creating various iterations of CRUD applications.
 Please message me to chat about anything and everything.
 
 Email me: **patrickgbecker@gmail.com**
