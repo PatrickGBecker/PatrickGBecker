@@ -14,7 +14,7 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
 
 <div align='center'>
 
-  <a href="https://www.linkedin.com/in/patrickgbecker/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://www.linkedin.com/in/patrickgarrettbecker/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
   <a href="mailto:patrickgbecker@gmail.com">
     ![patrickgbecker@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        
