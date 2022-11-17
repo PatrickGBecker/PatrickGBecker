@@ -22,17 +22,6 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/patrickgbecker/github-readme-stats">
-    <img alt="Patrick's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickgbecker&theme=gotham&show_icons=true" />
-  </a>
-  <a href="https://github.com/patrickgbecker/github-readme-stats">
-    <img alt="Patrick's Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickgbecker&theme=gotham&layout=compact" />
-  </a>
-</div>
-
-<div align="left">
-
 ### About Me
 - Pronouns: He/Him
 - Background: Past experience in hospitality, education, music & landscaping.
