@@ -1,9 +1,7 @@
 <h1 align="center">I'm Patrick Becker</h1>
-<h3 align="center">A software developer living in Kansas City, MO</h3>
+<h3 align="center">A friendly frontend developer living in Kansas City, MO</h3>
 
-I'm really interested in applications that inspire people to take action. I know how to work with JavaScript, React, TypeScript, HTML/CSS and GraphQL. 
-I will soon learn how to incorporate PWA's into my applications. I'm currently working with a front-end  & back-end team to create an app for educators to more easily find information about school districts they are interested in applying to for work. I'm also creating various iterations of CRUD applications.
-Please message me to chat about anything and everything.
+I'm really interested in creating applications that people can use intuitively. I know how to work with JavaScript, React, TypeScript, Next.js, HTML/CSS and GraphQL. I thoroughly enjoying making progressive web apps that are accessible for everyone. I'm currently collaborating with back-end & full-stack developers to create an app that meaningfully displays comparative data from government APIs related to raising climate crisis awareness.  I'm also recreating various popular applications. Please message me to chat about anything and everything.
 
 Email me: **patrickgbecker@gmail.com**
 
@@ -24,9 +22,10 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
 
 ### About Me
 - Pronouns: He/Him
-- Background: Past experience in hospitality, education, music & landscaping.
+- Background: Past experience in hospitality, education, office administration, music & landscaping.
 - Musician, Artist, Actor
-- I love books & outdoor activies (kayaking, hiking, cold water plunges, etc.)
+- I love books & outdoor activies (running, kayaking, hiking, mushroom foraging, cold water plunges, etc.)
+- Currently reading *Skinny Legs and All* by Tom Robbins.
 
 ### Languages
 
