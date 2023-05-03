@@ -1,5 +1,5 @@
 <h1 align="center">I'm Patrick Becker</h1>
-<h3 align="center">A friendly frontend developer living in Kansas City, MO</h3>
+<h3 align="center">A friendly frontend web developer living in Kansas City, MO</h3>
 
 I'm really interested in creating applications that people can use intuitively. I know how to work with JavaScript, React, TypeScript, Next.js, HTML/CSS and GraphQL. I thoroughly enjoy making progressive web apps that are accessible for everyone. I'm currently collaborating with back-end & full-stack developers to create an app that meaningfully displays comparative data from government APIs related to raising climate crisis awareness.  I'm also recreating various popular applications. Please message me to chat about anything and everything.
 
