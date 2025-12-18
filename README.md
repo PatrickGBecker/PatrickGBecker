@@ -1,7 +1,7 @@
 <h1 align="center">I'm Patrick Becker</h1>
-<h3 align="center">A friendly frontend web developer living in Kansas City, MO</h3>
+<h3 align="center">A friendly frontend developer living in Lawrence, Kansas</h3>
 
-I'm really interested in creating applications that people can use intuitively. I know how to work with JavaScript, React, TypeScript, Next.js, HTML/CSS and GraphQL. I thoroughly enjoy making progressive web apps that are accessible for everyone. I'm currently collaborating with back-end & full-stack developers to create an app that meaningfully displays comparative data from government APIs related to raising climate crisis awareness.  I'm also recreating various popular applications. Please message me to chat about anything and everything.
+I build web sites, plugin scripts, perform manual testing, and deploy automated tests in CI/CD pipelines for the E-commerce department of GO2 Partners. I was previously an Adobe Multi-Solutions Engineer at NFM and freelance Software Developer/Graphic Designer for MoonBloom Marketing. I am less active on Github these days, but am still happy to collaborate and talk shop. Reach out if you feel like it! 
 
 Email me: **patrickgbecker@gmail.com**
 
